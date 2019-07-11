@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>back.jpg</file>
+        <file>back1.jpg</file>
+        <file>大棚.png</file>
+        <file>大棚2.jpg</file>
+        <file>风速.bmp</file>
+        <file>风向.bmp</file>
+        <file>光照.bmp</file>
+        <file>气压.bmp</file>
+        <file>湿度.bmp</file>
+        <file>温度.bmp</file>
+        <file>雨雪.bmp</file>
+        <file>紫外线.bmp</file>
+    </qresource>
+</RCC>
